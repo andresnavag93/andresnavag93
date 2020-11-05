@@ -7,11 +7,22 @@
 
 ```javascript
 const andres = {
-  code: [Javascript, C#, HTML, CSS, Ruby, Python],
-  tools: [React, Redux, Node, NextJs, Styled-Components, Rails, Django, Sass],
-  deployments: [AWS, Heroku, Vercel, Surge],
-  gameEngines: [Unity3D],
-  augmentedReality: [Vuforia, AR-Foundation],
+  pronouns: "He" | "Him",
+  askMeAbout: ["full stack dev", "tech", "augmented reality", "soccer", "hiking", "books"],
+  code: ["Javascript", "C#", "HTML", "CSS", "Ruby", "Python"],
+  technologies: {
+    frontEnd: {
+        js: ["React", "NextJs", "Redux"],
+        css: ["Sass", "Styled-Components"]
+    },
+    backEnd: {
+        js: ["Node", "Express"],
+        python: ["Django"],
+        ruby: ["Rails"]
+    },
+    gameEngines: ["Unity3D"],
+    augmentedReality: ["Vuforia", "AR-Foundation"],
+    devOps: ["AWS", "Docker", "Route53", "Vercel", "Surge", "Heroku"],
+    databases: ["Mongo", "PostgreSql", "Firebase"],
 }
 ```
----
