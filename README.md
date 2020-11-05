@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hi, I'm Andres Navarro!</h2>
 
-<!--
-**andresnavag93/andresnavag93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Engineer at Simón Bolívar University - Caracas, Venezuela
+- Full Stack JavaScript and Game(AR) Developer
 
-Here are some ideas to get you started:
+### About me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const andres = {
+  code: [Javascript, C#, HTML, CSS, Ruby, Python],
+  tools: [React, Redux, Node, NextJs, Styled-Components, Rails, Django, Sass],
+  deployments: [AWS, Heroku, Vercel, Surge],
+  gameEngines: [Unity3D],
+  augmentedReality: [Vuforia, AR-Foundation],
+}
+```
+---
