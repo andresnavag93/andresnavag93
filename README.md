@@ -1,7 +1,7 @@
 <h2> Hi, I'm Andres Navarro!</h2>
 
 - Computer Engineer at Simón Bolívar University - Caracas, Venezuela
-- Full Stack JavaScript and Game(AR) Developer
+- Software Engineer Full Stack and Game(AR) Developer
 
 ### About me...  
 
