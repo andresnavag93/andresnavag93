@@ -1,28 +1,25 @@
 <h2> 👋 Hi, I'm Andres Navarro!</h2>
 
 - Computer Engineer at Simón Bolívar University - Caracas, Venezuela
-- Software Engineer Full Stack and Game(AR) Developer
+- Unity 3D Developer
+- AR, VR and NFT Games  Fan
 
 ### 👨🏻‍💻 About me...  
 
 ```javascript
 const andres = {
   pronouns: "He" | "Him",
-  askMeAbout: ["full stack dev", "tech", "augmented reality", "soccer", "hiking", "books"],
-  code: ["Javascript", "C#", "HTML", "CSS", "Ruby", "Python"],
+  askMeAbout: ["videogames", "nft-games", "tech", "augmented reality", "soccer", "hiking", "books"],
+  code: ["C#", "HTML", "CSS", "Python", "Javascript"],
   technologies: {
-    frontEnd: {
-        js: ["React", "NextJs", "Redux"],
-        css: ["Sass", "Styled-Components"]
-    },
-    backEnd: {
-        js: ["Node", "Express"],
-        python: ["Django"],
-        ruby: ["Rails"]
-    },
     gameEngines: ["Unity3D"],
-    augmentedReality: ["Vuforia", "AR-Foundation"],
-    devOps: ["AWS", "Docker", "Route53", "Vercel", "Surge", "Heroku"],
-    databases: ["Mongo", "PostgreSql", "Firebase"],
+    augmentedReality: ["Vuforia"],
+    3dModeling: ["Blender3D"]
+    desing: ["Figma", "Illustrator"]
+    videoediting: ["PremierPro"]
+    frontEnd: ["React"],
+    backEnd: ["Node", "Express"],
+    devOps: ["AWS", "Route53", "CloudFront", "S3", "Vercel", "Surge", "Heroku"],
+    databases: ["Mongo", "PostgreSql", "MySql"],
 }
 ```
