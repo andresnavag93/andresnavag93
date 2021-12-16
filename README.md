@@ -2,7 +2,6 @@
 
 - Computer Engineer at Simón Bolívar University - Caracas, Venezuela
 - +5 years of Software Development Experience 
-- Unity 3D, Javascript and Solidity Developer
 - AR, VR and NFT Games Fan
 
 ### 👨🏻‍💻 About me...  
