@@ -1,8 +1,9 @@
 <h2> 👋 Hi, I'm Andres Navarro!</h2>
 
 - Computer Engineer at Simón Bolívar University - Caracas, Venezuela
+- Three (3) years of work experience in video games and augmented reality
 - +5 years of Software Development Experience 
-- AR, VR and NFT Games Fan
+- Blockchain and NFT enthusiast
 
 ### 👨🏻‍💻 About me...  
 
