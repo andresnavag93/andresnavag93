@@ -1,9 +1,8 @@
 <h2> 👋 Hi, I'm Andres Navarro!</h2>
 
 - Computer Engineer at Simón Bolívar University - Caracas, Venezuela
-- Three (3) years as a Video Games and Augmented Reality Developer using Unity 3D and Vuforia
-- Software Developer with five (5) years of work experience.  
-- XR, Blockchain and NFT enthusiast
+- Unity developer | Game developer | Gameplay programmer 
+- XR, VR, AR enthusiast
 
 ### 👨🏻‍💻 About me...  
 
@@ -11,14 +10,14 @@
 const andres = {
   pronouns: "He" | "Him",
   languages: ["Spanish", "English"],
-  askMeAbout: ["Videogames", "Nft-games", "Blockchain", "Tech", "Augmented Reality", "Play-to-Earn", "Soccer", "Hiking", "Books"],
+  askMeAbout: ["Videogames", "Nft-games", "Blockchain", "Tech", "Extended Reality", "Play-to-Earn", "Soccer", "Hiking", "Books"],
   technologies: {
-      code: ["C#", "Javascript", "Solidity", "HTML", "CSS", "Python", "C++"],
       gameEngines: ["Unity3D"],
-      augmentedReality: ["Vuforia"],
+      code: ["C#", "Javascript", "HTML", "CSS", "Python", "C++"],
+      augmentedReality: ["Vuforia", "AR Core", "AR Foundation"],
       3dModeling: ["Blender3D"],
       multiplayer: ["Photon", "Mirror"],
-      dapp: ["Truffle", "Metamask", "Hardhat", "Web3.js"],
+      dapp: ["Truffle", "Metamask", "Hardhat", "Web3.js", "Solidity"],
       frontEnd: ["React", "Next.Js"],
       backEnd: ["Node", "Express"],
       design: ["Figma", "Illustrator"],
