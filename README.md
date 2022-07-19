@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I'm Andres Navarro!</h2>
 
 - Computer Engineer at Simón Bolívar University - Caracas, Venezuela
-- Unity developer | Game developer | Gameplay programmer 
+- React developer | Unity developer | Game developer | Gameplay programmer 
 - XR, VR, AR enthusiast
 
 ### 👨🏻‍💻 About me...  
