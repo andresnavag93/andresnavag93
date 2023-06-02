@@ -2,7 +2,7 @@
 
 💻 Computer Engineer at Simón Bolívar University - Caracas, Venezuela.
 
-👨‍💻 React Developer | Unity Developer | Game Developer | Gameplay Programmer.
+👨‍💻 React Developer | Unity Developer.
 
 💡 XR, VR, AR enthusiast.
 
