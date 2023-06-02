@@ -8,7 +8,6 @@
 
 🚀 Experience:
 
-- Over 5 years of dedicated software development experience.
 - Passionate about building impactful and innovative solutions.
 - Skilled in front-end development with a focus on React and Next.js.
 - Proficient in JavaScript, HTML, CSS, and other web technologies.
@@ -33,6 +32,7 @@ I have a strong thirst for knowledge and a passion for continuous learning.
 I enjoy studying new technologies and staying up-to-date with the latest industry trends.
 Committed to personal growth and constantly seeking opportunities to expand my skills.
 Embracing challenges and using them as opportunities for self-improvement.
+
 📚 About me...
 
 ```javascript
