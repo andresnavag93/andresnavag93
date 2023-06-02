@@ -2,9 +2,7 @@
 
 💻 Computer Engineer at Simón Bolívar University - Caracas, Venezuela.
 
-👨‍💻 React Developer | Unity Developer.
-
-💡 XR, VR, AR enthusiast.
+👨‍💻 React Developer | Unity Developer | XR enthusiast.
 
 🚀 Experience:
 
@@ -22,7 +20,7 @@
 
 🤝 Always Here to Support:
 
-- I genuinely enjoy helping others and fostering a supportive environment.
+- I genuinely enjoy helping others and work in a supportive environment.
 - Feel free to reach out if you need assistance or have any questions.
 - I believe in the power of teamwork and collaboration to achieve success.
 
