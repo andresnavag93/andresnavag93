@@ -1,4 +1,4 @@
-👋 Hi, I'm Andres Navarro!</h2>
+<h2>👋 Hi, I'm Andres Navarro!</h2>
 
 💻 Computer Engineer at Simón Bolívar University - Caracas, Venezuela.
 
