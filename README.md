@@ -35,7 +35,6 @@ Embracing challenges and using them as opportunities for self-improvement.
 
 ```javascript
 const andres = {
-  pronouns: "He" | "Him",
   languages: ["Spanish", "English", "German (A2-B1)"],
   askMeAbout: ["Tech", "React", "Front-end Development", "Extended Reality"],
   technologies: {
