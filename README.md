@@ -2,7 +2,7 @@
 
 💻 Computer Engineer at Simón Bolívar University - Caracas, Venezuela.
 
-👨‍💻 React Developer | Unity Developer | XR enthusiast.
+👨‍💻 React Developer | Frontend Developer | Unity Developer | XR enthusiast.
 
 📚 About me...
 
@@ -21,28 +21,7 @@ const andres = {
   }
 }
 ```
-
-🚀 Experience:
-
-- Passionate about building impactful and innovative solutions.
-- Skilled in front-end development with a focus on React and Next.js.
-- Proficient in JavaScript, HTML, CSS, and other web technologies.
-- Experienced in designing and developing scalable applications.
-- Strong problem-solving and debugging skills.
-
-💬 Direct and Expressive:
-
-- I believe in clear and effective communication.
-- I like to be direct, ensuring efficient collaboration and understanding.
-- Expressing ideas and feedback openly to drive better outcomes.
-
-🤝 Always Here to Support:
-
-- I genuinely enjoy helping others and work in a supportive environment.
-- Feel free to reach out if you need assistance or have any questions.
-- I believe in the power of teamwork and collaboration to achieve success.
-
-📚 Passion for Learning and Growth:
+🚀 Passion for Learning and Growth:
 
 I have a strong thirst for knowledge and a passion for continuous learning.
 I enjoy studying new technologies and staying up-to-date with the latest industry trends.
