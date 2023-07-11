@@ -2,7 +2,7 @@
 
 💻 Computer Engineer at Simón Bolívar University - Caracas, Venezuela.
 
-👨‍💻 React Developer | Frontend Developer | Unity Developer | XR enthusiast.
+👨‍💻 Software Engineer | Fullstack Developer | Frontend Developer | XR enthusiast.
 
 📚 About me...
 
@@ -11,13 +11,14 @@ const andres = {
   languages: ["Spanish", "English", "German (A2)"],
   askMeAbout: ["Tech", "React", "Front-end Development", "Extended Reality"],
   technologies: {
-      code: ["Javascript", "HTML", "CSS", "Python", "C#"],
-      frontEnd: ["React", "Next.js"],
+      code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+      frontEnd: ["React", "Next.js", "Sass", "Tailwind", "Redux Toolkit"],
       backEnd: ["Node.js", "Express"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
-      design: ["Figma", "Illustrator"],
-      devOps: ["AWS", "Route53", "CloudFront", "S3", "Vercel", "Surge", "Heroku"],
-      videoEditing: ["Premiere Pro"]
+      testing: ["Jest", "React Testing Library", "Cypress", "Playwright", "Puppeteer"],
+      devOps: ["AWS", "Route53", "S3", "Vercel", "Surge", "Heroku", "Docker", "Jenkins"],
+      videogames: ["Unity" ,"C#"]
+
   }
 }
 ```
