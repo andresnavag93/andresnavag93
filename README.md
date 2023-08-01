@@ -2,7 +2,7 @@
 
 💻 Computer Engineer at Simón Bolívar University - Caracas, Venezuela.
 
-👨‍💻 Software Engineer | Fullstack Developer | Frontend Developer | XR enthusiast.
+👨‍💻 Frontend Developer | Software Engineer | Fullstack Developer | XR enthusiast.
 
 📚 About me...
 
