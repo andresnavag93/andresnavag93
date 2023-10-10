@@ -13,7 +13,7 @@ const andres = {
   askMeAbout: ["Tech", "Soccer", "React", "JavaScript", "Front-end Development"],
   technologies: {
       programming: ["JavaScript", "TypeScript", "HTML5", "CSS3", "Python", "Ruby"],
-      frontEnd: ["React.js", "Next.js", "Sass", "TailwindCSS", "Redux Toolkit", "MaterialUI"],
+      frontEnd: ["React.js", "Next.js", "Sass", "TailwindCSS", "Redux Toolkit", "MaterialUI", "Angular"],
       backEnd: ["Node.js", "Express", "Ruby on Rails", "Django REST Framework"],
       databases: ["MongoDB", "PostgreSQL", "MySQL"],
       testing: ["Jest", "React Testing Library", "Cypress", "Playwright"],
